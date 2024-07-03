@@ -2,7 +2,7 @@
 Generative AI: Everything You need to know about Gemini Pro LLM Models - 2024 [Video](https://www.youtube.com/watch?v=JrTZJMU0KK4)
 
 [Tutorial: Get started with the Gemini API ](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&authuser=1)
-> **python.ipynb** downloaded(modified) from the above website 
+> **python.ipynb** downloaded(modified) from the above website (key 是 GOOGLE_API_KEY)
 
 conda create -p venv python==3.10 -y
 conda activate venv/
