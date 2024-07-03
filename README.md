@@ -9,6 +9,9 @@ conda activate venv/
 
 * requirements.txt
 * .env
+> ```python
+> GOOGLE_API_KEY = '...'
+> ```
 
 ```bash
 pip install -r requiremetns.txt
