@@ -12,4 +12,26 @@ conda activate venv/
 ```bash
 pip install -r requiremetns.txt
 ```
-app.py
+
+* app.py
+
+```bash
+streamlit run app.py
+```
+
+
+What is the Desposit requested (第1問)
+
+Who is this invoice billed to (第2問)
+
+hindi invoice format
+
+What is the HSN of Lenovo 5125-I (第3問)
+
+What is the Billing address (第4問) 
+
+What is the date of the invoice (第5問)
+
+What is the CGST (第6問)
+
+What is the total bill (第7問)
