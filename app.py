@@ -64,7 +64,7 @@ answer questions based on the input image.
 ## If submit button is clicked
 
 if submit:
-    image_data=input_image_setup(uploading_file)
+    image_data=input_image_setup(uploaded_file)
     response=get_gemini_response(input_prompt,image_data,input)
 
     st.subheader("The Response is")
