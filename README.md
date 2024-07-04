@@ -23,9 +23,9 @@ pip install -r requiremetns.txt
 streamlit run app.py
 ```
 
-`invoice format` 用 **excel-invoice-template-2x.jpg**
+`invoice format` 用 **e6331dbe479349413d652cd20_invoice-lp-sample-click-to-edit.png**
 
-What is the Desposit requested (第1問)
+What is the Desposit requested (第1問--應該是`Deposit'，但不影響答案)
 
 Who is this invoice billed to (第2問)
 
