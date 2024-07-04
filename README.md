@@ -8,7 +8,8 @@ conda create -p venv python==3.10 -y
 conda activate venv/
 
 * requirements.txt
-* .env
+
+* <font color="red">.env (Github不會保存此檔，clone 此 reposiotry 一定要重新建立)</font>
 > ```python
 > GOOGLE_API_KEY = '...'
 > ```
@@ -23,13 +24,13 @@ pip install -r requiremetns.txt
 streamlit run app.py
 ```
 
-`invoice format` 用 **e6331dbe479349413d652cd20_invoice-lp-sample-click-to-edit.png**
+`"sample invoice""Click to edit` 用 **e6331dbe479349413d652cd20_invoice-lp-sample-click-to-edit.png**
 
 What is the Desposit requested (第1問--應該是`Deposit'，但不影響答案)
 
 Who is this invoice billed to (第2問)
 
-`hindi invoice format` 用 **GST-Invoice-Template-In-Hindi.jpg**
+`"hindi invoice format"` 用 **GST-Invoice-Template-In-Hindi.jpg**
 
 What is the HSN of Lenovo 5125-I (第3問)
 
